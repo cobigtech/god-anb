@@ -1,1 +1,1 @@
-# god-airbnb
+# project start: npm run dev
